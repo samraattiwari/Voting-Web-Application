@@ -1,1 +1,3 @@
 # Voting-Web-Application
+
+Developed a full-stack voting application utilizing Java, HTML, CSS, JavaScript, JDBC, MySQL, JSP, and Servlets. The application features a secure admin section for managing candidates and monitoring election activities, and a voter section with user authentication and seamless voting processes. Designed a user-friendly interface with responsive layouts and interactive elements. Implemented robust database management with MySQL and deployed the application on Apache Tomcat, ensuring reliability and scalability. This project demonstrates my ability to create secure, efficient, and user-centric web applications from the ground up.
